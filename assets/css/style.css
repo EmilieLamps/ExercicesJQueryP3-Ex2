@@ -1,0 +1,11 @@
+.number {
+  font-size: 35px;
+}
+#addition , #soustraction {
+  font-size: 45px;
+  height: 70px;
+  width: 70px;
+}
+.container {
+  padding-top: 15%;
+}
